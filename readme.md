@@ -17,18 +17,17 @@ Este backend entrega datos en formato **JSON** para su integración con un front
 
 ---
 
+## 📌 Tecnologías usadas
+✅ FastAPI - Framework backend ✅ MySQL - Base de datos ✅ mysql-connector-python - Conexión a MySQL
+
+📌 Proyecto basado en arquitectura MVC, aplicando clases, métodos, herencia y polimorfismo.
+
 ## 🔧 Instalación
 
 ### 1️⃣ **Clonar el repositorio**
 ```bash
 git clone https://github.com/Julay-alb/pandatat.git
 
-
-
-## 📌 Tecnologías usadas
-✅ FastAPI - Framework backend ✅ MySQL - Base de datos ✅ mysql-connector-python - Conexión a MySQL
-
-📌 Proyecto basado en arquitectura MVC, aplicando clases, métodos, herencia y polimorfismo.
 
 
 ## 👨‍💻 Autor
