@@ -25,11 +25,11 @@ git clone https://github.com/Julay-alb/pandatat.git
 
 
 
-## 📌 Tecnologías usadas
+--## 📌 Tecnologías usadas
 ✅ FastAPI - Framework backend ✅ MySQL - Base de datos ✅ mysql-connector-python - Conexión a MySQL
 
 📌 Proyecto basado en arquitectura MVC, aplicando clases, métodos, herencia y polimorfismo.
 
 
-## 👨‍💻 Autor
+--## 👨‍💻 Autor
 Proyecto desarrollado por Julian 🚀
