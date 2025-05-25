@@ -29,6 +29,5 @@ Este backend entrega datos en formato **JSON** para su integración con un front
 git clone https://github.com/Julay-alb/pandatat.git
 
 
-
 ## 👨‍💻 Autor
-Proyecto desarrollado por Julian 🚀
+Desarrollado por **Julian** 🚀
